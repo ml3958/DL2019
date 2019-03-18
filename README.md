@@ -1,2 +1,4 @@
 # DL2019
-Codes for Deep Learning in Medicine course taken in 2019 spring.
+Course: deep learning in medicine
+Time: 2019 spring
+Author @ Menghan Liu
